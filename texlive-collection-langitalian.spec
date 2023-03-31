@@ -1,7 +1,7 @@
 Name:		texlive-collection-langitalian
 Epoch:		1
 Version:	55129
-Release:	1
+Release:	2
 Summary:	Italian
 Group:		Publishing
 URL:		http://tug.org/texlive
